@@ -32,3 +32,7 @@
 
 • Son olarak ise west.bat dosyasını çalıştırın. Botunuz aktif edilmiştir. İyi kullanımlar!
 
+# İletişim
+
+[Discord](https://discord.gg/verona)
+
