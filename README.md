@@ -30,9 +30,9 @@
 
 • Daha sonra modüller.bat dosyasını çalıştırın ve tüm modüllerin yüklenmesini bekleyin.
 
-• Son olarak ise west.bat dosyasını çalıştırın. Botunuz aktif edilmiştir. İyi kullanımlar!
+• Son olarak ise konsola pm2 start app.config.js yazın. Botunuz aktif edilmiştir. İyi kullanımlar!
 
 # İletişim
 
-[Discord](https://discord.gg/verona)
+Midwêst#0001 (737254285754236959)
 
