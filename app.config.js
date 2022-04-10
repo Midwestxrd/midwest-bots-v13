@@ -1,1 +1,1 @@
-# Bot Ücretlidir iletişim için Midwêst#0001
+# Bot ücretlidir fiyat bilgisi için Midwêst#0001
